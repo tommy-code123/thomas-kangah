@@ -64,7 +64,7 @@ const Hero: React.FC<HeroProps> = ({ profile }) => {
           <div className="relative">
             <div className="aspect-square rounded-2xl bg-gradient-to-br from-blue-100 to-teal-100 p-8 shadow-xl">
               <img
-                src="/"
+                src="/hero."
                 alt="Health Technology Professional"
                 className="w-full h-full object-cover rounded-xl"
               />
