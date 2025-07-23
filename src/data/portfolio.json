@@ -1,0 +1,131 @@
+{
+  "profile": {
+    "name": "Thomas Kangah",
+    "title": "Health Administrator & HEALTH TECH 4 Africa Founder",
+    "email": "thomas@healthtech4africa.org",
+    "linkedin": "https://linkedin.com/in/thomas-kangah-bb8504274",
+    "location": "Africa",
+    "bio": "Experienced Health Administrator and visionary founder of HEALTH TECH 4 Africa, dedicated to leveraging technology for improved healthcare outcomes across the African continent. Passionate about infodemic management, health information systems, and digital health innovation.",
+    "skills": [
+      "Health Information Systems",
+      "Infodemic Management",
+      "Digital Health Strategy",
+      "Healthcare Administration",
+      "Public Health Policy",
+      "Health Technology Innovation",
+      "Data Analytics",
+      "Project Management",
+      "Stakeholder Engagement",
+      "Research & Development"
+    ]
+  },
+  "experiences": [
+    {
+      "id": 1,
+      "title": "Founder & CEO",
+      "company": "HEALTH TECH 4 Africa",
+      "period": "2020 - Present",
+      "location": "Africa",
+      "description": "Founded and lead a pioneering health technology organization focused on improving healthcare delivery across Africa through innovative digital solutions and strategic partnerships.",
+      "achievements": [
+        "Established partnerships with major health organizations across 15+ African countries",
+        "Led development of health information management systems",
+        "Spearheaded infodemic management initiatives during COVID-19 pandemic",
+        "Mentored 50+ health tech entrepreneurs and startups"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Senior Health Administrator",
+      "company": "Regional Health Authority",
+      "period": "2017 - 2020",
+      "location": "Africa",
+      "description": "Managed comprehensive health administration programs, focusing on health information systems implementation and policy development.",
+      "achievements": [
+        "Implemented digital record systems across 25+ healthcare facilities",
+        "Reduced administrative overhead by 40% through process optimization",
+        "Led cross-functional teams of 30+ healthcare professionals",
+        "Developed health data governance frameworks"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Health Information Systems Specialist",
+      "company": "Ministry of Health",
+      "period": "2015 - 2017",
+      "location": "Africa",
+      "description": "Specialized in designing and implementing health information systems to support evidence-based decision making in public health.",
+      "achievements": [
+        "Designed integrated health information dashboards",
+        "Trained 200+ healthcare workers on digital systems",
+        "Improved data quality and reporting accuracy by 60%",
+        "Contributed to national health digitization strategy"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Health Tech Africa CDC Platform",
+      "description": "Comprehensive health technology platform designed to support CDC initiatives across Africa, featuring infodemic management tools and public health monitoring systems.",
+      "technologies": ["React", "Node.js", "PostgreSQL", "AWS"],
+      "url": "https://health-tech-africa-cdc.vercel.app/",
+      "image": "https://images.pexels.com/photos/3825581/pexels-photo-3825581.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "African Health Data Initiative",
+      "description": "Multi-country initiative to standardize health data collection and reporting across African healthcare systems.",
+      "technologies": ["Python", "Django", "D3.js", "MongoDB"],
+      "url": "#",
+      "image": "https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Digital Health Training Platform",
+      "description": "E-learning platform designed to train healthcare workers on digital health tools and infodemic management strategies.",
+      "technologies": ["Vue.js", "Firebase", "WebRTC"],
+      "url": "#",
+      "image": "https://images.pexels.com/photos/5427659/pexels-photo-5427659.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "featured": false
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "Master of Public Health (MPH)",
+      "institution": "University of Cape Town",
+      "year": "2014",
+      "specialization": "Health Information Systems"
+    },
+    {
+      "id": 2,
+      "degree": "Bachelor of Health Administration",
+      "institution": "University of Ghana",
+      "year": "2012",
+      "specialization": "Healthcare Management"
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "name": "Certified Health Information Manager (CHIM)",
+      "issuer": "AHIMA",
+      "year": "2018"
+    },
+    {
+      "id": 2,
+      "name": "Digital Health Certificate",
+      "issuer": "WHO Academy",
+      "year": "2021"
+    },
+    {
+      "id": 3,
+      "name": "Infodemic Management Specialist",
+      "issuer": "WHO",
+      "year": "2022"
+    }
+  ]
+}
